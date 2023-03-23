@@ -1,11 +1,10 @@
 # webapp
 
-new check for workflow
+Infrastructure link: https://github.com/RubyXiang/infrastructure
+Serverless link: https://github.com/RubyXiang/serverless
 
-### Student
-Name: Jingru Xiang 
-
-NUID: 001586653
+### Name
+Jingru Xiang
 
 ### Prerequisites
 * Java 11
